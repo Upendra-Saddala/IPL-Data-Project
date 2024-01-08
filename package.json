@@ -1,0 +1,22 @@
+{
+  "name": "iplproject1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/upendrasaddala26/iplproject1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/upendrasaddala26/iplproject1/issues"
+  },
+  "homepage": "https://gitlab.com/upendrasaddala26/iplproject1#readme",
+  "dependencies": {
+    "papaparse": "^5.3.2"
+  }
+}
